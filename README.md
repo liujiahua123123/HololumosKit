@@ -1,6 +1,6 @@
 # HololumosKit
 
- ### HololumosKits
+ ### HololumosKits(High-school homework/achieved)
 <ul>
   <li>
      <a href='https://github.com/liujiahua123123/HololumosKit/tree/master/ModelPresent'> ModelPresent</a>
